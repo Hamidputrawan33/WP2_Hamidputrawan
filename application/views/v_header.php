@@ -4,8 +4,8 @@
     <meta charset=”utf-8”>
     <title>Web Prog II | Merancang Template sederhana dengan codeigniter</title>
     <link rel=”stylesheet” type=”text/css” 
-    href="http://localhost/pustaka-booking/assets/css/stylebuku.css">
-</head>
+    href="http://localhost/pustaka-booking/assets/stylebuku.css">
+<head>
 <body>
     <div id=”wrapper”>
        <header>
@@ -24,3 +24,7 @@ base_url().'index.php/web/about'?>”>About</a></li>
             </nav>
             <div class=”clear”></div>
         </header>
+</head>
+<body>
+</body>
+</html>
